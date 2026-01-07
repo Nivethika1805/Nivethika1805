@@ -1,4 +1,4 @@
-<p align="center">
+R<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Nivethika%20P&fontSize=52&fontAlignY=40&animation=twinkling" />
 </p>
 
