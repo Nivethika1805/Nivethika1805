@@ -106,6 +106,4 @@ A responsive multi-page ice cream shop website featuring modern UI design, struc
   <b>“Consistency, curiosity, and code — that’s how I grow every day.”</b>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer" />
-</p>
+>
