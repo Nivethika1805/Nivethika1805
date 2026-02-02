@@ -1,9 +1,9 @@
-R<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Nivethika%20P&fontSize=52&fontAlignY=40&animation=twinkling" />
 </p>
 
 <h3 align="center">
-🚀 AI & Web Developer | ☁️ Cloud Deployment & Management
+AI & Web Developer | Cloud Deployment & Management
 </h3>
 
 <p align="center">
@@ -80,25 +80,9 @@ Goal:
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nivethika1805&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivethika1805&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nivethika1805&theme=react-dark&hide_border=true" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nivethika1805&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ## 🧩 Coding Profiles Snapshot
 <p align="center">
