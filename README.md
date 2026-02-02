@@ -33,9 +33,6 @@ AI & Web Developer | Cloud Deployment & Management
   <a href="https://codeforces.com/profile/niviguru02">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
   </a>
-  <a href="https://atcoder.jp/users/nivi_guru02">
-    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge"/>
-  </a>
 </p>
 
 ---
